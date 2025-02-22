@@ -1,0 +1,27 @@
+---
+import './hero.css';
+import Boton from '../atoms/Boton.astro';
+---
+
+<section class="hero">
+
+	<div class="hero__container">
+		<div class="text__content">
+			<h1 class="hero__title color__gradiente">Alicia Gómez Revilla</h1>
+			<p class="hero__text">
+				Licenciada en Bellas Artes y estudiando una especialización en desarrollo de videojuegos
+			</p>
+			<div class="buttons__container">
+				<Boton href="/portfolioAlicia/docs/Curriculum_AliciaGómezRevilla.pdf" texto="CV"/>
+				<Boton href="/portfolioAlicia/docs/Trabajo_Fin_De_Grado_GómezRevilla_Alicia_2024.pdf" texto="TFG"/>
+			</div>
+		</div>
+    <img
+		class="hero__img"
+		src="/portfolioAlicia/img/Alicia.jpg"
+		alt="Alicia"
+		width="384"
+    	height="384"
+	/>
+	</div>
+</section>
