@@ -17,43 +17,43 @@
  */
 export const portafolioData = [
 	{
-		imgSrc: '/portfolioAlicia/img/coyote.jpg',
+		imgSrc: '/Portfolio/img/coyote.jpg',
 		title: 'El Coyote',
 		descripcion:
 			'Técnica: Escultura en Barro y positivada en Escayola. Dimensiones: 85 x 66 cm. Fecha: 2023',
-		downloadURL: '/portfolioAlicia/docs/Coyote.zip',
+		downloadURL: '/Portfolio/docs/Coyote.zip',
 		anim: 'fade-right',
 	},
 	{
-		imgSrc: '/portfolioAlicia/img/liebre.png',
+		imgSrc: '/Portfolio/img/liebre.png',
 		title: 'La Liebre',
 		descripcion:
 			'Técnica: Escultura en Bronce. Dimensiones: 45 x 25 x 15’5. Fecha: 2024',
-		downloadURL: '/portfolioAlicia/docs/liebre.zip',
+		downloadURL: '/Portfolio/docs/liebre.zip',
 		anim: 'fade-right',
 	},
 	{
-		imgSrc: '/portfolioAlicia/img/grabado.png',
+		imgSrc: '/Portfolio/img/grabado.png',
 		title: 'Introspección',
 		descripcion:
 			'Técnica: Grabado. Formato: 56 x 38,5. Fecha: 2024',
-		downloadURL: '/portfolioAlicia/docs/Introspección.zip',
+		downloadURL: '/Portfolio/docs/Introspección.zip',
 		anim: 'fade-right',
 	},
 	{
-		imgSrc: '/portfolioAlicia/img/Proyectos.png',
+		imgSrc: '/Portfolio/img/Proyectos.png',
 		title: 'Proyectos',
 		descripcion:
 			'',
-		downloadURL: '/portfolioAlicia/docs/proyectos.zip',
+		downloadURL: '/Portfolio/docs/proyectos.zip',
 		anim: 'fade-right',
 	},
 	{
-		imgSrc: '/portfolioAlicia/img/Videojuegos.png',
+		imgSrc: '/Portfolio/img/Videojuegos.png',
 		title: 'Videojuegos',
 		descripcion:
 			'',
-		downloadURL: '/portfolioAlicia/docs/Videojuegos.zip',
+		downloadURL: '/Portfolio/docs/Videojuegos.zip',
 		itchioURL: 'https://turbobutateam.itch.io/extinct-spirit',
 		anim: 'fade-right',
 	}
