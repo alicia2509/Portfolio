@@ -63,7 +63,7 @@
 }
 
 .header .links a:hover {
-	color: var(--primary-90);
+	color: #ae2422;
 }
 
 .header .links a:hover::after {

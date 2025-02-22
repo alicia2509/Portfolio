@@ -86,13 +86,13 @@
 
 .card__portfolio .descripcion p::-webkit-scrollbar {
 	width: 4px;
-	background: var(--surface);
+	background: #ae24226c;
 	border-radius: 4px;
 }
 
 .card__portfolio .descripcion p::-webkit-scrollbar-thumb {
 	width: 2px;
-	background: var(--primary);
+	background: #ae2422;
 	border-radius: 4px;
 }
 
@@ -118,7 +118,7 @@
 }
 
 .card__portfolio .buttons a:hover {
-	color: var(--primary-80);
+	color: #ae2422;
 }
 
 .card__portfolio .buttons a::after {
@@ -130,7 +130,7 @@
 	width: 100%;
 	transform-origin: 0 0;
 	transform: scale(0);
-	background: var(--primary);
+	background: #ae2422;
 	transition: 0.35s transform;
 }
 .card__portfolio .buttons a:hover::after {

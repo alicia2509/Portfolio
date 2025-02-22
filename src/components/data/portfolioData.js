@@ -21,7 +21,7 @@ export const portafolioData = [
 		title: 'El Coyote',
 		descripcion:
 			'Técnica: Escultura en Barro y positivada en Escayola. Dimensiones: 85 x 66 cm. Fecha: 2023',
-		downloadURL: '/Portfolio/docs/Coyote.zip',
+		// downloadURL: '/Portfolio/docs/Coyote.zip',
 		anim: 'fade-right',
 	},
 	{
@@ -29,7 +29,7 @@ export const portafolioData = [
 		title: 'La Liebre',
 		descripcion:
 			'Técnica: Escultura en Bronce. Dimensiones: 45 x 25 x 15’5. Fecha: 2024',
-		downloadURL: '/Portfolio/docs/liebre.zip',
+		//downloadURL: '/Portfolio/docs/liebre.zip',
 		anim: 'fade-right',
 	},
 	{
@@ -37,7 +37,7 @@ export const portafolioData = [
 		title: 'Introspección',
 		descripcion:
 			'Técnica: Grabado. Formato: 56 x 38,5. Fecha: 2024',
-		downloadURL: '/Portfolio/docs/Introspección.zip',
+		//downloadURL: '/Portfolio/docs/Introspección.zip',
 		anim: 'fade-right',
 	},
 	{
@@ -45,7 +45,7 @@ export const portafolioData = [
 		title: 'Proyectos',
 		descripcion:
 			'',
-		downloadURL: '/Portfolio/docs/proyectos.zip',
+		//downloadURL: '/Portfolio/docs/proyectos.zip',
 		anim: 'fade-right',
 	},
 	{
@@ -53,7 +53,7 @@ export const portafolioData = [
 		title: 'Videojuegos',
 		descripcion:
 			'',
-		downloadURL: '/Portfolio/docs/Videojuegos.zip',
+		//downloadURL: '/Portfolio/docs/Videojuegos.zip',
 		itchioURL: 'https://turbobutateam.itch.io/extinct-spirit',
 		anim: 'fade-right',
 	}

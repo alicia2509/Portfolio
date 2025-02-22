@@ -27,12 +27,14 @@ const {
 			<p>{descripcion}</p>
 
 			<div class="buttons">
+				{downloadURL && (
 				<a href={downloadURL}>
 					<span>
 						Descargar
 						{(<iconify-icon icon="quill:link-out" />)}
 					</span>
 				</a>
+				 )}
 				{itchioURL && (
 					<a href={itchioURL}>
 					  <span>
